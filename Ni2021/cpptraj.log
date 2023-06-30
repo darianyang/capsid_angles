@@ -1,0 +1,9 @@
+# 06/07/23 12:02:41
+parm pent_example.pdb
+fixatomorder
+trajin pent_example.pdb
+fixatomorder
+trajout test.pdb pdb
+trajout help
+trajout ~/Desktop/test.pdb pdb
+trajout ~/Desktop/test222.pdb pdb

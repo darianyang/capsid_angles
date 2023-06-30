@@ -1,0 +1,1062 @@
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -272.8458  498.0920  -24.9041 OXYZ       1 VEC      0.000000
+      2 VXYZ     -275.8379  508.6089  -21.0287 VXYZ       1 VEC      0.000000
+      3 OXYZ     -272.8458  498.0920  -24.9041 OXYZ       2 VEC      0.000000
+      4 VXYZ     -284.3153  511.1267   -3.5095 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -265.6778  556.8027   42.2953 OXYZ       1 VEC      0.000000
+      2 VXYZ     -271.5726  554.3560   32.6080 VXYZ       1 VEC      0.000000
+      3 OXYZ     -265.6778  556.8027   42.2953 OXYZ       2 VEC      0.000000
+      4 VXYZ     -269.0761  563.5544   19.0405 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      126.7066  548.5900  264.8135 OXYZ       1 VEC      0.000000
+      2 VXYZ      134.6646  542.6967  270.8565 VXYZ       1 VEC      0.000000
+      3 OXYZ      126.7066  548.5900  264.8135 OXYZ       2 VEC      0.000000
+      4 VXYZ      130.8378  529.6587  278.6532 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      169.7261  595.8268  207.4288 OXYZ       1 VEC      0.000000
+      2 VXYZ      173.2601  603.0767  199.0906 VXYZ       1 VEC      0.000000
+      3 OXYZ      169.7261  595.8268  207.4288 OXYZ       2 VEC      0.000000
+      4 VXYZ      188.4534  599.2651  188.5711 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      177.8510  543.6778  244.8834 OXYZ       1 VEC      0.000000
+      2 VXYZ      175.2112  537.2579  254.1780 VXYZ       1 VEC      0.000000
+      3 OXYZ      177.8510  543.6778  244.8834 OXYZ       2 VEC      0.000000
+      4 VXYZ      161.7409  542.1164  263.5536 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -66.5860 -564.1769  105.8753 OXYZ       1 VEC      0.000000
+      2 VXYZ      -60.0490 -572.1549  111.1854 VXYZ       1 VEC      0.000000
+      3 OXYZ      -66.5860 -564.1769  105.8753 OXYZ       2 VEC      0.000000
+      4 VXYZ      -57.6299 -589.2676  102.2285 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -91.7213 -574.3131   56.8102 OXYZ       1 VEC      0.000000
+      2 VXYZ      -97.3241 -577.0846   47.0377 VXYZ       1 VEC      0.000000
+      3 OXYZ      -91.7213 -574.3131   56.8102 OXYZ       2 VEC      0.000000
+      4 VXYZ     -108.4536 -565.7148   38.6076 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      269.5932  498.2234  -36.4331 OXYZ       1 VEC      0.000000
+      2 VXYZ      272.6727  493.3610  -46.5055 VXYZ       1 VEC      0.000000
+      3 OXYZ      269.5932  498.2234  -36.4331 OXYZ       2 VEC      0.000000
+      4 VXYZ      284.1169  480.7691  -46.4930 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -168.4657  607.4838 -122.5038 OXYZ       1 VEC      0.000000
+      2 VXYZ     -161.7276  616.6310 -124.8500 VXYZ       1 VEC      0.000000
+      3 OXYZ     -168.4657  607.4838 -122.5038 OXYZ       2 VEC      0.000000
+      4 VXYZ     -156.6007  626.2833 -111.9305 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -250.6752  582.1365   -6.5964 OXYZ       1 VEC      0.000000
+      2 VXYZ     -260.5245  576.0718   -5.7062 VXYZ       1 VEC      0.000000
+      3 OXYZ     -250.6752  582.1365   -6.5964 OXYZ       2 VEC      0.000000
+      4 VXYZ     -263.6250  564.3678  -17.0077 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       50.1576  414.1205 -271.7315 OXYZ       1 VEC      0.000000
+      2 VXYZ       43.6890  422.8192 -275.8629 VXYZ       1 VEC      0.000000
+      3 OXYZ       50.1576  414.1205 -271.7315 OXYZ       2 VEC      0.000000
+      4 VXYZ       26.8139  421.3795 -279.4252 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      245.6786  507.3788  -84.3002 OXYZ       1 VEC      0.000000
+      2 VXYZ      254.9208  500.3675  -84.3125 VXYZ       1 VEC      0.000000
+      3 OXYZ      245.6786  507.3788  -84.3002 OXYZ       2 VEC      0.000000
+      4 VXYZ      267.8395  502.0046  -71.4389 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -122.3470  601.1564 -153.1533 OXYZ       1 VEC      0.000000
+      2 VXYZ     -124.1803  611.0451 -147.3713 VXYZ       1 VEC      0.000000
+      3 OXYZ     -122.3470  601.1564 -153.1533 OXYZ       2 VEC      0.000000
+      4 VXYZ     -139.1830  615.5475 -142.1169 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      134.9976  622.7936  175.8242 OXYZ       1 VEC      0.000000
+      2 VXYZ      146.3533  624.1885  173.9063 VXYZ       1 VEC      0.000000
+      3 OXYZ      134.9976  622.7936  175.8242 OXYZ       2 VEC      0.000000
+      4 VXYZ      158.8821  619.7755  183.5015 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -148.2313  573.2628  194.8684 OXYZ       1 VEC      0.000000
+      2 VXYZ     -159.3728  570.1963  195.8906 VXYZ       1 VEC      0.000000
+      3 OXYZ     -148.2313  573.2628  194.8684 OXYZ       2 VEC      0.000000
+      4 VXYZ     -171.3503  578.7958  188.0671 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       15.2376 -621.7318  -47.9797 OXYZ       1 VEC      0.000000
+      2 VXYZ       14.2929 -628.9463  -38.9315 VXYZ       1 VEC      0.000000
+      3 OXYZ       15.2376 -621.7318  -47.9797 OXYZ       2 VEC      0.000000
+      4 VXYZ       27.0621 -632.8035  -26.3332 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      202.4061  598.2325  123.4139 OXYZ       1 VEC      0.000000
+      2 VXYZ      199.1091  602.9348  133.4932 VXYZ       1 VEC      0.000000
+      3 OXYZ      202.4061  598.2325  123.4139 OXYZ       2 VEC      0.000000
+      4 VXYZ      189.1287  618.7832  133.1602 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      286.5207  445.3747  -36.2315 OXYZ       1 VEC      0.000000
+      2 VXYZ      287.2286  452.3339  -45.4861 VXYZ       1 VEC      0.000000
+      3 OXYZ      286.5207  445.3747  -36.2315 OXYZ       2 VEC      0.000000
+      4 VXYZ      288.4052  447.8677  -61.6245 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      155.8446  627.2531  124.3647 OXYZ       1 VEC      0.000000
+      2 VXYZ      163.1737  626.4192  133.3183 VXYZ       1 VEC      0.000000
+      3 OXYZ      155.8446  627.2531  124.3647 OXYZ       2 VEC      0.000000
+      4 VXYZ      158.7972  631.6786  149.0319 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -257.8969  545.3579  -48.0981 OXYZ       1 VEC      0.000000
+      2 VXYZ     -265.1885  546.0656  -39.1032 VXYZ       1 VEC      0.000000
+      3 OXYZ     -257.8969  545.3579  -48.0981 OXYZ       2 VEC      0.000000
+      4 VXYZ     -272.7950  532.0238  -30.8139 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -100.9679  652.2995  -82.9961 OXYZ       1 VEC      0.000000
+      2 VXYZ     -108.1115  653.5399  -92.0518 VXYZ       1 VEC      0.000000
+      3 OXYZ     -100.9679  652.2995  -82.9961 OXYZ       2 VEC      0.000000
+      4 VXYZ     -101.7762  647.0288 -108.9648 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      277.6717  423.3929  -85.8271 OXYZ       1 VEC      0.000000
+      2 VXYZ      281.0163  434.4067  -84.3829 VXYZ       1 VEC      0.000000
+      3 OXYZ      277.6717  423.3929  -85.8271 OXYZ       2 VEC      0.000000
+      4 VXYZ      274.3305  448.6314  -95.1229 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -104.3483 -539.8542  -24.0636 OXYZ       1 VEC      0.000000
+      2 VXYZ     -108.5061 -549.3805  -18.9116 VXYZ       1 VEC      0.000000
+      3 OXYZ     -104.3483 -539.8542  -24.0636 OXYZ       2 VEC      0.000000
+      4 VXYZ      -99.0070 -563.5622  -19.6634 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -212.3590  510.0780  189.9458 OXYZ       1 VEC      0.000000
+      2 VXYZ     -212.1195  521.2001  193.2344 VXYZ       1 VEC      0.000000
+      3 OXYZ     -212.3590  510.0780  189.9458 OXYZ       2 VEC      0.000000
+      4 VXYZ     -196.2451  527.3071  202.8506 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       56.4064  466.8061 -255.6807 OXYZ       1 VEC      0.000000
+      2 VXYZ       47.3804  464.2125 -262.4910 VXYZ       1 VEC      0.000000
+      3 OXYZ       56.4064  466.8061 -255.6807 OXYZ       2 VEC      0.000000
+      4 VXYZ       47.8300  450.3666 -272.5030 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -33.1664 -624.8193  -16.3182 OXYZ       1 VEC      0.000000
+      2 VXYZ      -25.3229 -633.0453  -13.9979 VXYZ       1 VEC      0.000000
+      3 OXYZ      -33.1664 -624.8193  -16.3182 OXYZ       2 VEC      0.000000
+      4 VXYZ       -9.0431 -634.4072  -23.3737 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -15.4914 -613.2857  -40.8410 OXYZ       1 VEC      0.000000
+      2 VXYZ       -6.0006 -614.3161  -47.4323 VXYZ       1 VEC      0.000000
+      3 OXYZ      -15.4914 -613.2857  -40.8410 OXYZ       2 VEC      0.000000
+      4 VXYZ       -3.9113 -605.6792  -60.5057 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -73.8436 -588.1747  -28.3842 OXYZ       1 VEC      0.000000
+      2 VXYZ      -83.9769 -588.1769  -22.7366 VXYZ       1 VEC      0.000000
+      3 OXYZ      -73.8436 -588.1747  -28.3842 OXYZ       2 VEC      0.000000
+      4 VXYZ      -84.0603 -594.1432   -6.5773 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       65.0463 -597.9673  -26.4705 OXYZ       1 VEC      0.000000
+      2 VXYZ       59.4962 -601.3345  -36.0849 VXYZ       1 VEC      0.000000
+      3 OXYZ       65.0463 -597.9673  -26.4705 OXYZ       2 VEC      0.000000
+      4 VXYZ       48.3921 -617.0477  -35.5158 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       52.1256 -622.1031   -9.1684 OXYZ       1 VEC      0.000000
+      2 VXYZ       45.4420 -631.5837   -9.0131 VXYZ       1 VEC      0.000000
+      3 OXYZ       52.1256 -622.1031   -9.1684 OXYZ       2 VEC      0.000000
+      4 VXYZ       41.4014 -639.4471    6.3202 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       -3.4999 -568.9553  -69.6800 OXYZ       1 VEC      0.000000
+      2 VXYZ        3.1222 -578.3903  -68.3755 VXYZ       1 VEC      0.000000
+      3 OXYZ       -3.4999 -568.9553  -69.6800 OXYZ       2 VEC      0.000000
+      4 VXYZ       19.7503 -579.9150  -70.8100 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -278.0005  505.0364   29.8079 OXYZ       1 VEC      0.000000
+      2 VXYZ     -280.0743  513.2901   21.9243 VXYZ       1 VEC      0.000000
+      3 OXYZ     -278.0005  505.0364   29.8079 OXYZ       2 VEC      0.000000
+      4 VXYZ     -282.4201  530.4666   27.1232 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       82.5690 -606.5555   35.2541 OXYZ       1 VEC      0.000000
+      2 VXYZ       89.2591 -604.1173   44.4126 VXYZ       1 VEC      0.000000
+      3 OXYZ       82.5690 -606.5555   35.2541 OXYZ       2 VEC      0.000000
+      4 VXYZ       97.1809 -586.5124   45.3789 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      110.4333  498.0140  280.8163 OXYZ       1 VEC      0.000000
+      2 VXYZ      121.2564  502.1574  281.3370 VXYZ       1 VEC      0.000000
+      3 OXYZ      110.4333  498.0140  280.8163 OXYZ       2 VEC      0.000000
+      4 VXYZ      135.2701  493.8735  284.0961 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ        6.7422  491.6323 -254.3276 OXYZ       1 VEC      0.000000
+      2 VXYZ        8.1715  482.7563 -261.6589 VXYZ       1 VEC      0.000000
+      3 OXYZ        6.7422  491.6323 -254.3276 OXYZ       2 VEC      0.000000
+      4 VXYZ       25.4963  479.0120 -268.1628 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -112.2862 -531.3923   30.7931 OXYZ       1 VEC      0.000000
+      2 VXYZ     -110.7701 -542.1909   26.8348 VXYZ       1 VEC      0.000000
+      3 OXYZ     -112.2862 -531.3923   30.7931 OXYZ       2 VEC      0.000000
+      4 VXYZ     -114.5521 -546.2852    8.5863 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -185.5459  591.1130  156.4602 OXYZ       1 VEC      0.000000
+      2 VXYZ     -189.1767  586.8639  166.6258 VXYZ       1 VEC      0.000000
+      3 OXYZ     -185.5459  591.1130  156.4602 OXYZ       2 VEC      0.000000
+      4 VXYZ     -200.4664  573.4152  166.7797 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       50.4001 -561.4235  -63.4495 OXYZ       1 VEC      0.000000
+      2 VXYZ       46.6742 -572.3226  -64.8270 VXYZ       1 VEC      0.000000
+      3 OXYZ       50.4001 -561.4235  -63.4495 OXYZ       2 VEC      0.000000
+      4 VXYZ       51.8542 -586.8142  -55.2356 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       -4.7370  404.9412 -274.0051 OXYZ       1 VEC      0.000000
+      2 VXYZ        0.5058  414.7526 -277.2960 VXYZ       1 VEC      0.000000
+      3 OXYZ       -4.7370  404.9412 -274.0051 OXYZ       2 VEC      0.000000
+      4 VXYZ       -7.9717  431.8762 -278.6455 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -225.9421  551.5987  153.7026 OXYZ       1 VEC      0.000000
+      2 VXYZ     -221.6681  554.7114  164.0284 VXYZ       1 VEC      0.000000
+      3 OXYZ     -225.9421  551.5987  153.7026 OXYZ       2 VEC      0.000000
+      4 VXYZ     -215.6218  541.6238  175.7490 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -52.6442 -610.0110   74.2787 OXYZ       1 VEC      0.000000
+      2 VXYZ      -49.4526 -609.7685   85.4291 VXYZ       1 VEC      0.000000
+      3 OXYZ      -52.6442 -610.0110   74.2787 OXYZ       2 VEC      0.000000
+      4 VXYZ      -34.2427 -614.4581   89.7115 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -20.8781 -634.0748   34.8610 OXYZ       1 VEC      0.000000
+      2 VXYZ      -14.3526 -639.7950   27.1621 VXYZ       1 VEC      0.000000
+      3 OXYZ      -20.8781 -634.0748   34.8610 OXYZ       2 VEC      0.000000
+      4 VXYZ      -17.0746 -641.9496   11.2592 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -71.3773 -613.6055   21.5844 OXYZ       1 VEC      0.000000
+      2 VXYZ      -82.0576 -610.1783   18.6240 VXYZ       1 VEC      0.000000
+      3 OXYZ      -71.3773 -613.6055   21.5844 OXYZ       2 VEC      0.000000
+      4 VXYZ      -89.6936 -595.3202   29.3074 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      151.4589  463.0360  276.1026 OXYZ       1 VEC      0.000000
+      2 VXYZ      153.2465  474.1938  278.7262 VXYZ       1 VEC      0.000000
+      3 OXYZ      151.4589  463.0360  276.1026 OXYZ       2 VEC      0.000000
+      4 VXYZ      168.1317  484.3085  271.8710 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      209.9174  576.3951  173.2417 OXYZ       1 VEC      0.000000
+      2 VXYZ      205.7373  587.2128  172.9603 VXYZ       1 VEC      0.000000
+      3 OXYZ      209.9174  576.3951  173.2417 OXYZ       2 VEC      0.000000
+      4 VXYZ      207.0351  598.6357  157.4385 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -82.1974  629.5378 -130.6559 OXYZ       1 VEC      0.000000
+      2 VXYZ      -92.8793  633.8314 -129.2266 VXYZ       1 VEC      0.000000
+      3 OXYZ      -82.1974  629.5378 -130.6559 OXYZ       2 VEC      0.000000
+      4 VXYZ     -105.2173  629.0039 -140.2576 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -31.6779  454.1548 -268.0245 OXYZ       1 VEC      0.000000
+      2 VXYZ      -22.1248  453.5039 -274.5736 VXYZ       1 VEC      0.000000
+      3 OXYZ      -31.6779  454.1548 -268.0245 OXYZ       2 VEC      0.000000
+      4 VXYZ       -8.7122  467.4423 -271.6151 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -165.9944  526.4775  217.8040 OXYZ       1 VEC      0.000000
+      2 VXYZ     -174.5250  533.9052  215.2275 VXYZ       1 VEC      0.000000
+      3 OXYZ     -165.9944  526.4775  217.8040 OXYZ       2 VEC      0.000000
+      4 VXYZ     -169.2267  550.1847  210.7629 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ     -156.1688  640.2034  -78.0253 OXYZ       1 VEC      0.000000
+      2 VXYZ     -152.1280  642.9250  -88.5533 VXYZ       1 VEC      0.000000
+      3 OXYZ     -156.1688  640.2034  -78.0253 OXYZ       2 VEC      0.000000
+      4 VXYZ     -133.4910  645.4539  -91.4547 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      250.0001  461.2246 -115.5541 OXYZ       1 VEC      0.000000
+      2 VXYZ      258.2909  463.3514 -107.7234 VXYZ       1 VEC      0.000000
+      3 OXYZ      250.0001  461.2246 -115.5541 OXYZ       2 VEC      0.000000
+      4 VXYZ      261.5889  482.0535 -101.0846 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      111.2708 -556.7518   32.6925 OXYZ       1 VEC      0.000000
+      2 VXYZ      112.3608 -564.0250   41.6639 VXYZ       1 VEC      0.000000
+      3 OXYZ      111.2708 -556.7518   32.6925 OXYZ       2 VEC      0.000000
+      4 VXYZ      110.6945 -555.7701   59.0616 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      105.2950 -529.9273   81.2420 OXYZ       1 VEC      0.000000
+      2 VXYZ      105.1330 -541.4891   80.3072 VXYZ       1 VEC      0.000000
+      3 OXYZ      105.2950 -529.9273   81.2420 OXYZ       2 VEC      0.000000
+      4 VXYZ       97.9167 -551.8110   92.7819 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      -21.1999 -545.8962  130.4655 OXYZ       1 VEC      0.000000
+      2 VXYZ      -22.2428 -557.1871  128.0139 VXYZ       1 VEC      0.000000
+      3 OXYZ      -21.1999 -545.8962  130.4655 OXYZ       2 VEC      0.000000
+      4 VXYZ      -39.4966 -566.7340  124.1241 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       70.9138 -558.2283  112.2643 OXYZ       1 VEC      0.000000
+      2 VXYZ       79.6253 -564.1826  107.4441 VXYZ       1 VEC      0.000000
+      3 OXYZ       70.9138 -558.2283  112.2643 OXYZ       2 VEC      0.000000
+      4 VXYZ       75.7761 -580.0002  100.0862 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       19.5133 -579.9503  117.5619 OXYZ       1 VEC      0.000000
+      2 VXYZ        9.2331 -585.0961  119.1161 VXYZ       1 VEC      0.000000
+      3 OXYZ       19.5133 -579.9503  117.5619 OXYZ       2 VEC      0.000000
+      4 VXYZ       -5.0534 -577.9378  125.8740 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ      195.0252  491.0025  250.7573 OXYZ       1 VEC      0.000000
+      2 VXYZ      190.5145  495.6583  260.3779 VXYZ       1 VEC      0.000000
+      3 OXYZ      195.0252  491.0025  250.7573 OXYZ       2 VEC      0.000000
+      4 VXYZ      184.3832  514.1193  259.1386 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       34.8131 -634.7220   39.9220 OXYZ       1 VEC      0.000000
+      2 VXYZ       30.9208 -641.1216   31.0632 VXYZ       1 VEC      0.000000
+      3 OXYZ       34.8131 -634.7220   39.9220 OXYZ       2 VEC      0.000000
+      4 VXYZ       14.0585 -644.6972   30.0480 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ        1.4043 -619.0638   82.1187 OXYZ       1 VEC      0.000000
+      2 VXYZ       -5.6721 -616.6682   90.9938 VXYZ       1 VEC      0.000000
+      3 OXYZ        1.4043 -619.0638   82.1187 OXYZ       2 VEC      0.000000
+      4 VXYZ       -1.8368 -607.4366  104.8906 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
+@<TRIPOS>MOLECULE
+Cpptraj Generated mol2 file.
+    4     2     2     0     0
+SMALL
+NO_CHARGES
+
+
+@<TRIPOS>ATOM
+      1 OXYZ       56.1677 -607.0738   83.7407 OXYZ       1 VEC      0.000000
+      2 VXYZ       67.5493 -605.0889   84.7862 VXYZ       1 VEC      0.000000
+      3 OXYZ       56.1677 -607.0738   83.7407 OXYZ       2 VEC      0.000000
+      4 VXYZ       75.8702 -601.5653   70.6788 VXYZ       2 VEC      0.000000
+@<TRIPOS>BOND
+    1     1     2 1
+    2     3     4 1
+@<TRIPOS>SUBSTRUCTURE
+      1 VEC               1 ****               0 ****  **** 
+      2 VEC               3 ****               0 ****  **** 
