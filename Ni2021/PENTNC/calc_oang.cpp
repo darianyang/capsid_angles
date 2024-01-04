@@ -1,4 +1,5 @@
-parm parm.pdb
+#parm parm.pdb
+parm frames_990_1492-leap.pdb
 trajin pents.nc
 
 # adjusting all M2 refs by -10 since using 144-221 instead of 144-231 CA-CTD
@@ -17,6 +18,8 @@ vector V4 :96-100@CA,C,O,N :124-127@CA,C,O,N
 # previous c2 angle calc
 vector D1 :1-75@CA,C,O,N :39@CA,C,O,N 
 vector D2 :79-153@CA,C,O,N :117@CA,C,O,N 
+
+distance T45-T133 :45&!@CA,C,O,N,H :123&!@CA,C,O,N,H out PENTNC/tt_dist.dat
 
 run
 writedata PENTNC/oang_m1.mol2 vectraj V1 V2 trajfmt mol2
